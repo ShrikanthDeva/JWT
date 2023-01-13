@@ -48,14 +48,12 @@
 
 ## Outputs
   + ## home
-    + 
     ```
         URL: 127.0.0.1:5000/
 
         OP: Input form if not logged in already else input form
     ```
   + ## public
-    + 
     ```
         URL: 127.0.0.1:5000/public
 
